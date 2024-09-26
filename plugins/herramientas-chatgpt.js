@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ KillzN (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
+/*     ◉ 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳 (https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -67,5 +67,5 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
    }
  }
 };
-handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|KillzN|KillzNBot)$/i;
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳|𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳Bot)$/i;
 export default handler;

@@ -25,46 +25,56 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` *⌜ 𝗠𝗘𝗡𝗨 | 𝗩𝗘𝗥𝗦𝗨𝗦 ⌟*
+    const str = `👑 𝐌𝐎𝐃𝐀𝐋𝐈𝐃𝐀𝐃:16 vs 16 
+💠 𝐇𝐎𝐑𝐀:  8:00🇲🇽 09:00🇨🇴
+💠 𝐂𝐎𝐋𝐎𝐑: NEGRO
 
-━━━━━━━━━━━━━━━━━━━
-☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗩𝗜𝗩𝗜𝗗𝗢 )
-━━━━━━━━━━━━━━━━━━━
-⊹ *${usedPrefix}4vs4a1*
-⊹ *${usedPrefix}4vs4a2*
-⊹ *${usedPrefix}4vs4a3*
-⊹ *${usedPrefix}4vs4a4*
-⊹ *${usedPrefix}4vs4a5*
-⊹ *${usedPrefix}4vs4a6*
-━━━━━━━━━━━━━━━━━━━
-☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
-━━━━━━━━━━━━━━━━━━━
-⊹ *${usedPrefix}4vs4b1*
-⊹ *${usedPrefix}4vs4b2*
-⊹ *${usedPrefix}4vs4b3*
-⊹ *${usedPrefix}4vs4b4*
-⊹ *${usedPrefix}4vs4b5*
-━━━━━━━━━━━━━━━━━━━
-⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗖𝗟𝗞 )
-━━━━━━━━━━━━━━━━━━━
-⊹ *${usedPrefix}4vs4n1*
-⊹ *${usedPrefix}4vs4n2*
-⊹ *${usedPrefix}4vs4n3*
-⊹ *${usedPrefix}4vs4n4*
-⊹ *${usedPrefix}4vs4n5*
-⊹ *${usedPrefix}4vs4n6*
-⊹ *${usedPrefix}scrim*
-⊹ *${usedPrefix}16vsn*
-⊹ *${usedPrefix}16vsb*
-━━━━━━━━━━━━━━━━━━━
-⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
-━━━━━━━━━━━━━━━━━━━
-⊹ *${usedPrefix}4vs4d1*
-⊹ *${usedPrefix}4vs4d2*
-⊹ *${usedPrefix}4vs4d3*
-⊹ *${usedPrefix}4vs4d4*
-⊹ *${usedPrefix}4vs4d5*
-⊹ *${usedPrefix}4vs4d6*`.trim();
+
+⚠𝐆𝐄𝐍𝐓𝐄 𝐂𝐎𝐍 𝐃𝐈𝐒𝐏𝐎𝐍𝐈𝐁𝐈𝐋𝐈𝐃𝐀𝐃 𝐃𝐄 𝐓𝐈𝐄𝐌𝐏𝐎 
+
+
+👑𝐋𝐈𝐃𝐄𝐑 𝐃𝐄 𝐄𝐒𝐂𝐔𝐀𝐃𝐑𝐀: 
+🤴
+🧸
+🧸
+🧸
+
+
+👑𝐋𝐈𝐃𝐄𝐑 𝐃𝐄 𝐄𝐒𝐂𝐔𝐀𝐃𝐑𝐀: 
+🤴🏻
+🧸
+🧸
+🧸
+
+
+👑𝐋𝐈𝐃𝐄𝐑 𝐃𝐄 𝐄𝐒𝐂𝐔𝐀𝐃𝐑𝐀:
+🤴🏻
+🧸
+🧸
+🧸
+
+
+👑𝐋𝐈𝐃𝐄𝐑 𝐃𝐄 𝐄𝐒𝐂𝐔𝐀𝐃𝐑𝐀:
+🤴🏻
+🧸
+🧸
+🧸
+
+
+
+        _______________
+
+🔄 𝐒𝐔𝐏𝐋𝐄𝐍𝐓𝐄𝐒:
+
+🧸
+🧸
+🧸
+🧸
+🧸
+
+ 𝐆𝐄𝐍𝐓𝐄 𝐏𝐔𝐍𝐓𝐔𝐀𝐋 𝐄𝐍 𝐃𝐂 𝟐𝟎 𝐌𝐈𝐍 𝐀𝐍𝐓𝐄𝐒 𝐃𝐄𝐋 𝐕𝐄𝐑𝐒𝐔𝐒
+
+. `.trim();
     if (m.isGroup) {
       // await conn.sendFile(m.chat, vn, './src/assets/audio/01J673Y3TGCFF1D548242AX68Q.mp3', null, m, true, { type: 'audioMessage', ptt: true})
       const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
@@ -78,7 +88,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(menuff|menuff|𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳vs)$/i;
+handler.command = /^(16vsn|16VSN)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

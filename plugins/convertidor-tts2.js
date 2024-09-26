@@ -2,8 +2,8 @@
 
         [ ❗ ] CREDITOS - NO MODIFICAR [ ❗ ]
 
-           Codigo hecho por @KillzN
-       Github: https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+           Codigo hecho por @𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳
+       Github: https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31
        
        Nota: Solo hay disponibles efectos en
        ingles, por lo que el texto en otros

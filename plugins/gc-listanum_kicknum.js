@@ -1,5 +1,5 @@
-/*              Codigo Creado Por KillzN
-      (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
+/*              Codigo Creado Por 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳
+      (https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31)
 */
 
 

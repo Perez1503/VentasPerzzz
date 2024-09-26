@@ -52,9 +52,9 @@ const handler = async (m, {conn, args}) => {
         conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
            contextInfo: {externalAdReply: {mediaUrl: null, mediaType: 1, description: null,
            title: tradutor.texto1[0],
-           body: '𝗞𝗜𝗟𝗟 - 𝗕𝗢𝗧',
+           body: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
            previewType: 0, thumbnail: fs.readFileSync('./src/assets/images/menu/languages/es/menu.png'),
-           sourceUrl: `https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`}
+           sourceUrl: `https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31`}
            }
         }
       );  

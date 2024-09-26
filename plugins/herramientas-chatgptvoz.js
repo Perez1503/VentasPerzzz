@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ KillzN (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
+/*     ◉ 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳 (https://chat.whatsapp.com/JdZt0ICENcS44BLkP78C31)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -139,7 +139,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   }}
  }}
 };
-handler.command = /^(openaivoz|chatgptvoz|iavoz|robotvoz|openai2voz|chatgpt2voz|ia2voz|robot2voz|KillzNvoz|KillzNBotvoz|gptvoz|ai_voz|ai_voce)$/i;
+handler.command = /^(openaivoz|chatgptvoz|iavoz|robotvoz|openai2voz|chatgpt2voz|ia2voz|robot2voz|𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳voz|𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳Botvoz|gptvoz|ai_voz|ai_voce)$/i;
 export default handler;
 
 async function tts(text = 'error', lang = 'es') {
